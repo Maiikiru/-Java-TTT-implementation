@@ -1,7 +1,5 @@
 package TTTGame;
 
-import TTTAI.TTTAI;
-
 import java.util.Random;
 import java.util.Scanner;
 
